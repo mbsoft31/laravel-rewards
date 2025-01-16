@@ -2,9 +2,9 @@
 
 namespace Mbsoft\LaravelRewards;
 
+use Mbsoft\LaravelRewards\Commands\LaravelRewardsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Mbsoft\LaravelRewards\Commands\LaravelRewardsCommand;
 
 class LaravelRewardsServiceProvider extends PackageServiceProvider
 {
