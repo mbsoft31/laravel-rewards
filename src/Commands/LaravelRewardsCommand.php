@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Mbsoft\LaravelRewards\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelRewardsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-rewards';
 
     public $description = 'My command';
 
